@@ -1,0 +1,169 @@
+/*****************************************
+ * FlightFinder Results
+ */
+
+.ffResult {
+	font-size: 2px;
+	width: 100%;	
+}
+
+.ffResult table {
+	width: 100%;
+	
+}
+
+.ffResult tr.even {
+	/*background-color: #8469a5;*/
+	background-color:#88BBD9;
+	/*background-color:#2169AD;*/
+}
+
+
+
+.ffResult tr.odd {
+	/*background-color: #6b59ce;*/
+	/*background-color:#181F40;*/
+	background-color:#fff;
+}
+
+
+.ffResult .original {
+	color: #aaa;
+	font-style: italic;
+}
+
+
+.ffResult .diversion {
+	border: 1px solid #f00;
+	padding: 0px 15px;
+}
+
+
+
+.ffResult .recovery {
+	border: 1px solid #0f0;
+	padding: 0px 15px;
+}
+
+
+
+
+/****************************
+ * List Results
+ */
+
+.ffResultList table {
+	width: 100%;
+}
+
+div.ffResultList div.header {
+	/*
+	border-top: 2px solid #bd9a5a;
+	border-left: 2px solid #bd9a5a;
+	border-right: 2px solid #bd9a5a;
+	*/
+	border-top: 2px solid #000;
+	border-bottom: 2px solid #000;
+	background-color: #FDD3BF;
+	
+}
+
+div.ffResultList div.header th {
+   /*background-color: #4249ff;*/
+	color: #333;
+	font-size: 20px;
+	font-weight: bold;
+   padding: .5ex;
+}
+
+.ffResultList div.header a {
+	color: #333;
+}
+
+
+div.ffResultList div.data {
+	/*
+	border-bottom: 2px solid #bd9a5a;
+	border-left: 2px solid #bd9a5a;
+	border-right: 2px solid #bd9a5a;
+	*/
+   /*border-bottom: 2px solid #00f;*/
+}
+
+div.ffResultList div.data td {
+   font-size: 17px;
+   font-weight: bold;
+	padding-left: 0.5ex;
+	padding-right: 0.5ex;
+	padding-top: 0.5ex;
+	padding-bottom: 0.5ex;
+	color: #333;
+}
+
+.ffResultList div.data a {
+	color: #333;
+}
+
+
+.ffResultList a:visited {
+	
+}
+
+
+
+
+/*********************************
+ * Individual Results
+ */
+
+
+.ffResultIndividual div.leg {
+	width: 400px;
+}
+
+.ffResultIndividual  {
+	font-size: 12px;
+}
+	
+
+.ffResultIndividual table.infoHeader th {
+	
+	
+	background-color: #FF6531;
+	color: #fff;
+	font-size: 1.2em;
+
+}
+
+.ffResultIndividual table.infoHeader td span.status {
+	font-weight: bold;
+	color: #0055AA;
+}
+
+
+
+
+.ffResultIndividual table.info th {
+	font-weight: normal;
+	border: 1px solid white;
+	padding: .5em 1ex;
+}
+
+
+
+.ffResultIndividual table.info td {
+	/*font-weight: bold;*/
+	border: 1px solid white;
+	padding: .5em 1ex;
+}
+
+.ffResultIndividual table.info span.airport {
+	padding: 0px 5px;
+}
+
+
+
+.ffResultIndividual .map img {
+	border: 1px solid #000;
+
+}

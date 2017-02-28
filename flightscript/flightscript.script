@@ -1,0 +1,7 @@
+#!/bin/bash
+export TZ=EST5EDT
+wget -o /dev/null -qb -O /home/gragnv/public_html/DSIFlightView/departures2.xml -i http://www.prodigiq.tv/feeds/GNV_dep_feed.xml
+mv -f /home/gragnv/public_html/DSIFlightView/departures2.xml /home/gragnv/public_html/DSIFlightView/departures.xml
+#
+wget -o /dev/null -qb -O /home/gragnv/public_html/DSIFlightView/arrivals2.xml -i http://www.prodigiq.tv/feeds/GNV_arr_feed.xml
+mv -f /home/gragnv/public_html/DSIFlightView/arrivals2.xml /home/gragnv/public_html/DSIFlightView/arrivals.xml

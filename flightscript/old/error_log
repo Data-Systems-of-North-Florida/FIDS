@@ -1,0 +1,147 @@
+[14-Jan-2009 08:17:14] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:18:21] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:30:03] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:32:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:32:52] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:32:54] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:33:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:35:01] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:35:19] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:35:35] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:37:40] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:38:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:38:56] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:39:30] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:40:36] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:41:09] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:41:11] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:41:13] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:45:33] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gragnv/public_html/flightaware/test.php on line 18
+[14-Jan-2009 08:46:00] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gragnv/public_html/flightaware/test.php on line 18
+[14-Jan-2009 08:46:38] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gragnv/public_html/flightaware/test.php on line 18
+[14-Jan-2009 08:46:40] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gragnv/public_html/flightaware/test.php on line 18
+[14-Jan-2009 08:48:00] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 19
+[14-Jan-2009 08:49:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 08:50:47] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 09:00:04] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/gragnv/public_html/flightaware/test.php on line 21
+[14-Jan-2009 09:00:18] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/gragnv/public_html/flightaware/test.php on line 21
+[14-Jan-2009 09:00:22] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/gragnv/public_html/flightaware/test.php on line 21
+[14-Jan-2009 09:06:12] PHP Parse error:  syntax error, unexpected ';' in /home/gragnv/public_html/flightaware/test.php on line 22
+[14-Jan-2009 09:08:38] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 09:15:19] PHP Warning:  array_values() [<a href='function.array-values'>function.array-values</a>]: The argument should be an array in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 09:24:16] PHP Fatal error:  Call to a member function origin() on a non-object in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 09:24:32] PHP Fatal error:  Call to a member function origin() on a non-object in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 09:25:54] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 09:25:56] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 15
+[14-Jan-2009 09:26:15] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gragnv/public_html/flightaware/test.php on line 20
+[14-Jan-2009 09:37:34] PHP Fatal error:  Call to undefined function  print_array() in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 09:39:12] PHP Fatal error:  Call to undefined function  print_array() in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 12:33:05] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 12:39:25] PHP Parse error:  syntax error, unexpected '"' in /home/gragnv/public_html/flightaware/test.php on line 26
+[14-Jan-2009 12:40:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/gragnv/public_html/flightaware/test.php on line 26
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:14:27] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: unknown POSIX class name at offset 4 in /home/gragnv/public_html/flightaware/test.php on line 25
+[14-Jan-2009 13:51:30] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 13:53:44] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 13:55:16] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 13:55:50] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 13:58:52] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 13:59:18] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:00:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:03:31] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:04:51] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:07:16] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:07:45] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:13:40] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:14:47] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:15:55] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:16:38] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:25:04] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:25:43] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:26:47] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:27:03] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 32
+[14-Jan-2009 14:27:04] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:27:18] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:33:22] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:37:56] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 119
+[14-Jan-2009 14:54:57] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 27
+[14-Jan-2009 14:57:22] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 75
+[14-Jan-2009 15:07:56] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/gragnv/public_html/flightaware/test.php on line 80
+[14-Jan-2009 15:08:45] PHP Parse error:  syntax error, unexpected '}' in /home/gragnv/public_html/flightaware/test.php on line 86
+[14-Jan-2009 15:54:12] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 173
+[14-Jan-2009 15:56:13] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 160
+[14-Jan-2009 16:12:56] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/gragnv/public_html/flightaware/test.php on line 235
+[14-Jan-2009 16:25:58] PHP Parse error:  syntax error, unexpected T_ECHO in /home/gragnv/public_html/flightaware/test.php on line 108
+[14-Jan-2009 16:26:57] PHP Parse error:  syntax error, unexpected T_ECHO in /home/gragnv/public_html/flightaware/test.php on line 108
+[14-Jan-2009 16:26:59] PHP Parse error:  syntax error, unexpected T_ECHO in /home/gragnv/public_html/flightaware/test.php on line 108
+[14-Jan-2009 17:17:24] PHP Parse error:  syntax error, unexpected '[' in /home/gragnv/public_html/flightaware/test.php on line 211
+[14-Jan-2009 17:18:49] PHP Parse error:  syntax error, unexpected '[' in /home/gragnv/public_html/flightaware/test.php on line 211
+[14-Jan-2009 17:19:24] PHP Parse error:  syntax error, unexpected '[' in /home/gragnv/public_html/flightaware/test.php on line 211
+[14-Jan-2009 17:21:16] PHP Parse error:  syntax error, unexpected ')' in /home/gragnv/public_html/flightaware/test.php on line 173
+[14-Jan-2009 17:31:32] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/public_html/flightaware/test.php on line 82
+[15-Jan-2009 10:30:08] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/public_html/flightaware/test1.php on line 241
+[15-Jan-2009 10:36:07] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/public_html/flightaware/test1.php on line 241
+[15-Jan-2009 11:00:05] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/flightawarescript/test1.php on line 242
+[15-Jan-2009 11:01:02] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/flightawarescript/test1.php on line 242
+[15-Jan-2009 11:02:02] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/flightawarescript/test1.php on line 242
+[15-Jan-2009 11:03:02] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/flightawarescript/test1.php on line 242
+[15-Jan-2009 11:30:04] PHP Fatal error:  Call to undefined function  file_put_contentes() in /home/gragnv/flightawarescript/test1.php on line 265
+[15-Jan-2009 17:35:09] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 175
+[15-Jan-2009 17:35:09] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 176
+[15-Jan-2009 17:35:13] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 213
+[15-Jan-2009 17:45:06] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[15-Jan-2009 17:45:06] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[15-Jan-2009 20:25:06] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[15-Jan-2009 20:25:06] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[16-Jan-2009 02:10:05] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[16-Jan-2009 02:10:05] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[20-Jan-2009 09:15:08] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 213
+[21-Jan-2009 14:20:14] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 125
+[21-Jan-2009 20:15:10] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 213
+[22-Jan-2009 02:05:07] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[22-Jan-2009 02:05:07] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[22-Jan-2009 13:30:02] PHP Fatal error:  Call to undefined method SOAP_Fault::Arrived() in /home/gragnv/flightawarescript/test1.php on line 84
+[01-Feb-2009 10:00:07] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[01-Feb-2009 10:00:07] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 14:38:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 14:38:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 15:00:03] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 15:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 15:19:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 15:19:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 15:38:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 15:38:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 16:19:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 16:19:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 16:38:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 16:38:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 17:00:03] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 17:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 17:19:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 17:19:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 17:38:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 17:38:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 18:00:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 18:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 18:19:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 18:19:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 18:38:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 18:38:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 19:00:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 19:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 19:19:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 19:19:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 20:00:02] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 20:00:02] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[13-Feb-2009 20:19:01] PHP Warning:  array_reverse() [<a href='function.array-reverse'>function.array-reverse</a>]: The argument should be an array in /home/gragnv/flightawarescript/test1.php on line 86
+[13-Feb-2009 20:19:01] PHP Warning:  Invalid argument supplied for foreach() in /home/gragnv/flightawarescript/test1.php on line 87
+[15-Feb-2009 01:19:01] PHP Fatal error:  Call to undefined method SOAP_Fault::Arrived() in /home/gragnv/flightawarescript/test1.php on line 84

@@ -1,0 +1,96 @@
+th {
+font-size:150%;
+text-shadow: 5px 5px 5px #999999;
+color:#292929;
+}
+.data {
+font-size:117%;
+font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+font-weight:bold;
+color:#292929;
+}
+.ffResult .original {
+	color: #888;
+	font-style: italic;
+}
+
+
+.ffResult .diversion {
+	border: 1px solid #f00;
+	padding: 0px 15px;
+}
+
+
+
+.ffResult .recovery {
+	border: 1px solid #0f0;
+	padding: 0px 15px;
+
+}
+
+.ffResult p {
+	margin: 0px;
+}
+
+.ffResultList span.city, .ffResultIndividual span.city {
+	text-transform: capitalize;
+}
+
+
+.ffResultList td.noflights {
+	text-align: center;
+	padding: 1ex;
+	font-weight: bold;
+}
+
+.ffResultList form {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.ffResultList div.sort img {
+	border: 0px;
+}
+
+
+.ffResultList td {
+	text-align: left;
+  padding-left: 8%;
+  line-height: 2;
+
+}
+
+.ffResultList div.header p.statusExplanation {
+	font-size: .8em;
+}
+
+
+.ffResultIndividual table.infoHeader {
+	width: 100%;
+	margin-top: 2em;
+}
+
+.ffResultIndividual table.infoHeader th {
+	width: 40%;
+}
+
+.ffResultIndividual table.infoHeader td {
+	width: 60%;
+	text-align: right;
+	font-style: italic;
+}
+
+.ffResultIndividual table.info {
+	width: 100%;
+}
+
+.ffResultIndividual table.info th {
+	width: 40%;
+}
+
+.ffResultIndividual table.info td {
+	width: 60%;
+	text-align: center;
+}

@@ -1,0 +1,15 @@
+body {
+	font-size: 1em;
+	background:none transparent;
+	color: #000;
+}
+
+a {
+	color: #00f;
+}
+
+a:visited {
+	color: #008;
+}
+
+

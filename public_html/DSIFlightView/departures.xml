@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rows>
+  <row id="DL_5237_02-28-2017T10:06">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5237</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>03</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>10:06</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>10:02</est_time>
+    <status>Departed</status>
+    <arr_est_time>11:18</arr_est_time>
+    <sched_minutes>9190686</sched_minutes>
+    <est_minutes>9190682</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981794</fs_id>
+  </row>
+  <row id="AA_5308_02-28-2017T11:07">
+    <show>1</show>
+    <airline>(AA) American Airlines</airline>
+    <flight>5308</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>11:07</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>10:52</est_time>
+    <status>Departed</status>
+    <arr_est_time>12:17</arr_est_time>
+    <sched_minutes>9190747</sched_minutes>
+    <est_minutes>9190732</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981796</fs_id>
+  </row>
+  <row id="DL_5489_02-28-2017T13:12">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5489</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>03</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>13:12</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>13:09</est_time>
+    <status>Departed</status>
+    <arr_est_time>14:34</arr_est_time>
+    <sched_minutes>9190872</sched_minutes>
+    <est_minutes>9190869</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981789</fs_id>
+  </row>
+  <row id="AA_5063_02-28-2017T13:48">
+    <show>1</show>
+    <airline>(AA) American Airlines</airline>
+    <flight>5063</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>13:48</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>13:52</est_time>
+    <status>Departed</status>
+    <arr_est_time>15:23</arr_est_time>
+    <sched_minutes>9190908</sched_minutes>
+    <est_minutes>9190912</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981798</fs_id>
+  </row>
+  <row id="DL_5208_02-28-2017T14:43">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5208</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>03</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>14:43</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>14:55</est_time>
+    <status>Departed</status>
+    <arr_est_time>16:09</arr_est_time>
+    <sched_minutes>9190963</sched_minutes>
+    <est_minutes>9190975</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981795</fs_id>
+  </row>
+  <row id="AA_3436_02-28-2017T15:44">
+    <show>1</show>
+    <airline>(AA) American Airlines</airline>
+    <flight>3436</flight>
+    <city>(MIA) Miami</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>15:44</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>15:36</est_time>
+    <status>Departed</status>
+    <arr_est_time>16:38</arr_est_time>
+    <sched_minutes>9191024</sched_minutes>
+    <est_minutes>9191016</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981801</fs_id>
+  </row>
+  <row id="DL_5396_02-28-2017T16:55">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5396</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>03</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>16:55</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>16:55</est_time>
+    <status>On time</status>
+    <arr_est_time>18:16</arr_est_time>
+    <sched_minutes>9191095</sched_minutes>
+    <est_minutes>9191095</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981792</fs_id>
+  </row>
+  <row id="AA_5202_02-28-2017T19:50">
+    <show>1</show>
+    <airline>(AA) American Airlines</airline>
+    <flight>5202</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>19:50</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>19:50</est_time>
+    <status>On time</status>
+    <arr_est_time>21:21</arr_est_time>
+    <sched_minutes>9191270</sched_minutes>
+    <est_minutes>9191270</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981799</fs_id>
+  </row>
+  <row id="DL_5476_02-28-2017T19:59">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5476</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>03</gate>
+    <belt></belt>
+    <sched_date>02-28-2017</sched_date>
+    <sched_time>19:59</sched_time>
+    <est_date>02-28-2017</est_date>
+    <est_time>19:59</est_time>
+    <status>On time</status>
+    <arr_est_time>21:23</arr_est_time>
+    <sched_minutes>9191279</sched_minutes>
+    <est_minutes>9191279</est_minutes>
+    <tz>-5</tz>
+    <fs_id>855981790</fs_id>
+  </row>
+</rows>

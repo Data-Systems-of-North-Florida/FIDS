@@ -1,0 +1,155 @@
+html,body {
+   overflow-y:hidden;
+   overflow-x:hidden;
+}
+
+.accessFooter {
+	position: absolute;
+	left: 0px;
+	top: 1296px;
+	width: 768px;
+}
+
+.accessFooter p {
+	margin:0px;
+}
+
+p.fidsError {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.fidsMain {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 768px;
+	height: 1366px;
+	margin-top: 0px;
+	text-align: center;
+	padding: 0px;
+	text-align: center;	
+}
+
+html>body .fidsMain {
+	width: 768px;
+	height: 1366px;
+}
+
+.fidsTitle {
+   font-family: arial,helvetica;
+   font-size: 50px;
+   font-weight: bold;
+   margin-top: 0px;
+   margin-bottom: 0px;
+	color:#000;
+}
+
+.fidsHeader {
+   font-family: arial,helvetica;
+   font-size: 32px;
+   font-weight: bold;
+   color: #fff
+   margin-top: 0px;
+   margin-bottom: 0px;
+	color:#000;
+}
+
+
+
+
+.fidsFooter {
+	position: absolute;
+	top: 580px;
+	left: 35px;
+   	padding-top:0px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.fidsFooter img {
+   float: right;
+}
+
+
+.fidsPrimary {
+	position: absolute;
+	left: 0px;
+	top: 105px;
+	width: 768px;
+	
+}
+
+html>body .fidsPrimary {
+	width: 768px;
+}
+
+.fidsSecondary {
+	position: absolute;
+	left: 0px;
+	top: 705px;
+	width: 768px;
+	
+}
+
+html>body .fidsSecondary {
+	width: 768px;
+}
+
+/**************************
+ * FIDS Switch
+ */
+.fidsSwitch table {
+}
+
+.fidsSwitch td {	
+	padding: 0px;
+	font-size: 14pt;
+	font-weight: normal;
+	text-align: center;
+}
+
+.fidsSwitch td img {
+	border:0px;
+}
+
+.fidsSwitch td.active {
+	background-color: #88BBD9;
+}
+
+
+.fidsSwitch td a {
+	color: #333;
+}
+
+
+.fidsSwitch td.active a {
+	color: #fff;
+}
+
+
+
+/*****************************
+ * FIDS Form
+ */
+.fidsSingleFlightForm form {
+	margin: 5px 0px;	
+}
+
+.fidsSingleFlightForm h1 {
+	font-size: 8pt;
+	display: inline;
+}
+
+
+.fidsSingleFlightForm select {
+	margin-left: 5px;
+	margin-right: 10px;
+	font-size: 8pt;
+}
+
+.fidsSingleFlightForm input {
+	margin-left: 5px;
+	margin-right: 10px;
+	font-size: 8pt;
+}

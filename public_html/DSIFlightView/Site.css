@@ -1,0 +1,58 @@
+body {
+	font-family: Verdana, Arial;
+	font-size: 1em;
+	margin: 0px;
+}
+
+table {
+	font-size: 1em;
+}
+
+
+div.portletMain div.portletTabBar {
+	text-align: right;
+	padding-right: 1ex;
+	border-bottom: 1px solid #666;
+}
+
+div.portletMain div.portletTabBar ul {
+	list-style: none;
+	margin: 0px;
+}
+
+
+div.portletMain div.portletTabBar li {
+	display: inline;
+	position: relative;
+	top: -3px;
+	padding: 3px 10px;
+	
+	margin: 0px 3px;
+	
+}
+
+
+div.portletMain div.portletBody {
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	padding: 1ex;
+}
+
+div.portletMain div.portletBody p {
+	margin: 0px;
+}
+
+
+.portletTabActive {
+	background-color: #fff;
+	border-left: 1px solid #666;
+	border-top: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #fff;
+}
+
+.portletTabInactive {
+	background-color: #aaa;
+	border: 1px solid #666;
+}

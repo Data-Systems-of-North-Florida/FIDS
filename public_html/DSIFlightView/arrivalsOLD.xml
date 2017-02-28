@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><rows>
+  <row id="DL_5077_06-15-2015T09:30">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5077</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>3</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>09:30</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>09:43</est_time>
+    <status>Arrived</status>
+    <dep_est_time>08:31</dep_est_time>
+    <sched_minutes>8279130</sched_minutes>
+    <est_minutes>8279143</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418857</fs_id>
+  </row>
+  <row id="US_5095_06-15-2015T10:17">
+    <show>1</show>
+    <airline>(US) US Airways</airline>
+    <flight>5095</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>10:17</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>10:11</est_time>
+    <status>Arrived</status>
+    <dep_est_time>08:56</dep_est_time>
+    <sched_minutes>8279177</sched_minutes>
+    <est_minutes>8279171</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556432850</fs_id>
+  </row>
+  <row id="DL_4961_06-15-2015T12:23">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>4961</flight>
+    <city>(ATL) Atlanta</city>
+    <gate>3</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>12:23</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>12:23</est_time>
+    <status>On time</status>
+    <dep_est_time>11:12</dep_est_time>
+    <sched_minutes>8279303</sched_minutes>
+    <est_minutes>8279303</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418859</fs_id>
+  </row>
+  <row id="US_5127_06-15-2015T14:06">
+    <show>1</show>
+    <airline>(US) US Airways</airline>
+    <flight>5127</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>14:06</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>14:06</est_time>
+    <status>On time</status>
+    <dep_est_time>12:50</dep_est_time>
+    <sched_minutes>8279406</sched_minutes>
+    <est_minutes>8279406</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556432851</fs_id>
+  </row>
+  <row id="DL_5059_06-15-2015T14:29">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5059</flight>
+    <city>(ATL) Atlanta</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>14:29</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>14:29</est_time>
+    <status>On time</status>
+    <dep_est_time>13:20</dep_est_time>
+    <sched_minutes>8279429</sched_minutes>
+    <est_minutes>8279429</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418856</fs_id>
+  </row>
+  <row id="AA_3268_06-15-2015T14:50">
+    <show>1</show>
+    <airline>(AA) American Airlines</airline>
+    <flight>3268</flight>
+    <city>(MIA) Miami</city>
+    <gate>2</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>14:50</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>14:50</est_time>
+    <status>On time</status>
+    <dep_est_time>13:40</dep_est_time>
+    <sched_minutes>8279450</sched_minutes>
+    <est_minutes>8279450</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556473319</fs_id>
+  </row>
+  <row id="3M_69_06-15-2015T16:06">
+    <show>1</show>
+    <airline>(3M) Silver Airways</airline>
+    <flight>69</flight>
+    <city>(MCO) Orlando</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>16:06</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>16:06</est_time>
+    <status>On time</status>
+    <dep_est_time>15:16</dep_est_time>
+    <sched_minutes>8279526</sched_minutes>
+    <est_minutes>8279526</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556470909</fs_id>
+  </row>
+  <row id="UA_69_06-15-2015T16:06">
+    <show>1</show>
+    <airline>(UA) United Airlines</airline>
+    <flight>69</flight>
+    <city>(MCO) Orlando</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>16:06</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>16:06</est_time>
+    <status>On time</status>
+    <dep_est_time>15:16</dep_est_time>
+    <sched_minutes>8279526</sched_minutes>
+    <est_minutes>8279526</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556470909</fs_id>
+  </row>
+  <row id="DL_5262_06-15-2015T16:35">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>5262</flight>
+    <city>(ATL) Atlanta</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>16:35</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>16:35</est_time>
+    <status>On time</status>
+    <dep_est_time>15:15</dep_est_time>
+    <sched_minutes>8279555</sched_minutes>
+    <est_minutes>8279555</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418862</fs_id>
+  </row>
+  <row id="US_5266_06-15-2015T19:15">
+    <show>1</show>
+    <airline>(US) US Airways</airline>
+    <flight>5266</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>19:15</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>19:15</est_time>
+    <status>On time</status>
+    <dep_est_time>17:55</dep_est_time>
+    <sched_minutes>8279715</sched_minutes>
+    <est_minutes>8279715</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556432853</fs_id>
+  </row>
+  <row id="DL_4953_06-15-2015T19:16">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>4953</flight>
+    <city>(ATL) Atlanta</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>19:16</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>19:16</est_time>
+    <status>On time</status>
+    <dep_est_time>18:05</dep_est_time>
+    <sched_minutes>8279716</sched_minutes>
+    <est_minutes>8279716</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418858</fs_id>
+  </row>
+  <row id="3M_67_06-15-2015T20:48">
+    <show>1</show>
+    <airline>(3M) Silver Airways</airline>
+    <flight>67</flight>
+    <city>(MCO) Orlando</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>20:48</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>20:48</est_time>
+    <status>On time</status>
+    <dep_est_time>19:59</dep_est_time>
+    <sched_minutes>8279808</sched_minutes>
+    <est_minutes>8279808</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556470910</fs_id>
+  </row>
+  <row id="UA_67_06-15-2015T20:48">
+    <show>1</show>
+    <airline>(UA) United Airlines</airline>
+    <flight>67</flight>
+    <city>(MCO) Orlando</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>20:48</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>20:48</est_time>
+    <status>On time</status>
+    <dep_est_time>19:59</dep_est_time>
+    <sched_minutes>8279808</sched_minutes>
+    <est_minutes>8279808</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556470910</fs_id>
+  </row>
+  <row id="DL_4893_06-15-2015T20:50">
+    <show>1</show>
+    <airline>(DL) Delta Air Lines</airline>
+    <flight>4893</flight>
+    <city>(ATL) Atlanta</city>
+    <gate></gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>20:50</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>20:50</est_time>
+    <status>On time</status>
+    <dep_est_time>19:34</dep_est_time>
+    <sched_minutes>8279810</sched_minutes>
+    <est_minutes>8279810</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556418861</fs_id>
+  </row>
+  <row id="US_5236_06-15-2015T21:51">
+    <show>1</show>
+    <airline>(US) US Airways</airline>
+    <flight>5236</flight>
+    <city>(CLT) Charlotte</city>
+    <gate>1</gate>
+    <belt></belt>
+    <sched_date>06-15-2015</sched_date>
+    <sched_time>21:51</sched_time>
+    <est_date>06-15-2015</est_date>
+    <est_time>21:51</est_time>
+    <status>On time</status>
+    <dep_est_time>20:30</dep_est_time>
+    <sched_minutes>8279871</sched_minutes>
+    <est_minutes>8279871</est_minutes>
+    <tz>-4</tz>
+    <fs_id>556432852</fs_id>
+  </row>
+</rows>
